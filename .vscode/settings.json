@@ -1,0 +1,16 @@
+{
+    "chat.agent.sandbox.enabled": "on",
+    "chat.agent.sandbox.network.allowLocalNetwork": true,
+    "chat.mcp.discovery.enabled": {
+        "claude-desktop": true,
+        "cursor-global": true
+    },
+    "inlineChat.defaultModel": "Auto (copilot)",
+    "inlineChat.notebookAgent": true,
+    "telemetry.editStats.showStatusBar": true,
+    "telemetry.editStats.showDecorations": false,
+    "telemetry.editStats.details.enabled": false,
+    "testing.alwaysRevealTestOnStateChange": false,
+    "testing.coverageToolbarEnabled": false,
+    "testing.followRunningTest": false
+}
