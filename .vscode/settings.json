@@ -12,5 +12,7 @@
     "telemetry.editStats.details.enabled": false,
     "testing.alwaysRevealTestOnStateChange": false,
     "testing.coverageToolbarEnabled": false,
-    "testing.followRunningTest": false
+    "testing.followRunningTest": false,
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
 }
